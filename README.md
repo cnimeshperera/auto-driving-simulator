@@ -23,7 +23,7 @@ Please refer below class and method for part 2 answer
 * Java Class: com.gic.simulator.service.CollisionSimulator.java
 * Method: findCollisions(SimulatorCommand simulatorCommand)
 
-Please refer the below test class for Part 1 solution examples
+Please refer the below test class for Part 2 solution examples
 * Test Class and examples: com.gic.simulator.service.CollisionSimulatorTest.java
 
 ## Unit Test Code Coverage
