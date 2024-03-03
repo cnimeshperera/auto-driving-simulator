@@ -60,7 +60,7 @@ class CollisionSimulatorTest {
     }
 
     @Test
-    void testNoCollisions1() {
+    void testCollisions() {
         var fieldMatrix = new FieldMatrix(10, 10);
         var vehicleA = new Vehicle(0, 0, "N", "A");
         var vehicleCommandA = new SimulatorCommand.VehicleCommand(vehicleA, "FFFF");
